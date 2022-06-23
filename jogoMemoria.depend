@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1655489929 source:c:\users\henri\desktop\eng_computação\estrutura de dados i\projeto final\prjfinal22-06\jogomemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"memoria.h"
+	"pilha.h"
+
+1655487237 c:\users\henri\desktop\eng_computação\estrutura de dados i\projeto final\prjfinal22-06\jogomemoria\memoria.h
+	<stdio.h>
+	<locale.h>
+
+1655491008 c:\users\henri\desktop\eng_computação\estrutura de dados i\projeto final\prjfinal22-06\jogomemoria\pilha.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1655490668 source:c:\users\henri\desktop\eng_computação\estrutura de dados i\projeto final\prjfinal22-06\jogomemoria\memoria.c
+	"memoria.h"
+	<stdio.h>
+	<stdlib.h>
+
+1655948418 source:e:\jogomemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"pilha.h"
+
+1655923758 e:\jogomemoria\memoria.h
+	<stdio.h>
+	<locale.h>
+
+1655947950 e:\jogomemoria\pilha.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1655925096 source:e:\jogomemoria\memoria.c
+	"memoria.h"
+	<stdio.h>
+	<stdlib.h>
+
+1655948562 source:e:\jogomemoria\pilha.c
+	"pilha.h"
+
+1655956391 source:c:\projects c\jogomemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"pilha.h"
+
+1655950792 c:\projects c\jogomemoria\pilha.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1655955042 source:c:\projects c\jogomemoria\pilha.c
+	"pilha.h"
+	<string.h>
+
